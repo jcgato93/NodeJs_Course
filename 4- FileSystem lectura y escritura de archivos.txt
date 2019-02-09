@@ -1,0 +1,8 @@
+El módulo del sistema de archivos de Node.js le 
+permite trabajar con el sistema de archivos en su computadora. 
+Para incluir el módulo de Sistema de archivos, use el método require ()
+
+    const fs = require('fs');
+
+
+
