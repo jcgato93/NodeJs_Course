@@ -1,0 +1,3 @@
+El módulo child_process proporciona la capacidad de generar procesos 
+secundarios de manera similar, pero no idéntica. Esta función 
+la proporciona principalmente la función child_process.spawn ():
