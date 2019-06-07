@@ -1,3 +1,5 @@
+# Emitir y recibir eventos
+
 Gran parte de la API central de Node.js se basa en una 
 arquitectura asincrónica idiomática basada en eventos, 
 en la que ciertos tipos de objetos (llamados “emisores”) 

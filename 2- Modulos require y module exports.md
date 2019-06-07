@@ -1,8 +1,10 @@
+# Modulos require y module export
+
 module.exports , es el formato de exportar funciones 
 para permitir a otros modulos el acceso a  dichas funciones
 importanto los modulos que se requieren
 
-    ej:
+ej:
 
         module.exports = {
             add : function(a,b){

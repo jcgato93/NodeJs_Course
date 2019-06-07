@@ -1,3 +1,5 @@
+# Crear nuevo proyecto de node
+
 Para la creacion de un nuevo proyecto en node
 se suele utilizar NPM 
 
@@ -27,7 +29,7 @@ el manejo de la version
 
 Menejo de dependencias 
 
-    para listar las dependencias que tiene un proyecto 
+- para listar las dependencias que tiene un proyecto 
     se ejecuta el siguiente comando 
 
         npm ls

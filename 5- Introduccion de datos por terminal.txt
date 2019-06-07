@@ -1,3 +1,0 @@
-El módulo Readline proporciona una forma de leer un flujo de datos, una línea a la vez.
-En este enlace podrás ver la documentación: https://nodejs.org/dist/latest-v10.x/docs/api/readline.html
-
